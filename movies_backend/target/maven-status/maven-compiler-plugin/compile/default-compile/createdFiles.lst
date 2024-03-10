@@ -1,0 +1,10 @@
+dev\shadow\movies\MoviesApplication.class
+dev\shadow\movies\Movie\MovieController.class
+dev\shadow\movies\Movie\MovieDAO.class
+dev\shadow\movies\Movie\MovieModel.class
+dev\shadow\movies\Review\ReviewController.class
+dev\shadow\movies\Review\ReviewService.class
+dev\shadow\movies\Review\ReviewDAO.class
+dev\shadow\movies\Review\ReviewModel.class
+dev\shadow\movies\Movie\MovieService.class
+dev\shadow\movies\CorsConfig.class
